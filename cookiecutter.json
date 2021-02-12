@@ -1,0 +1,4 @@
+{
+  "directory": ".docker/node",
+  "node_version": "14"
+}
